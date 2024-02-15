@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/olx-job/static/css/main.073c9b0a.css",
+    "main.js": "/olx-job/static/js/main.be863d7d.js",
+    "static/js/787.4341f9cd.chunk.js": "/olx-job/static/js/787.4341f9cd.chunk.js",
+    "static/media/logo.svg": "/olx-job/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/olx-job/index.html",
+    "main.073c9b0a.css.map": "/olx-job/static/css/main.073c9b0a.css.map",
+    "main.be863d7d.js.map": "/olx-job/static/js/main.be863d7d.js.map",
+    "787.4341f9cd.chunk.js.map": "/olx-job/static/js/787.4341f9cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.be863d7d.js"
+  ]
+}
